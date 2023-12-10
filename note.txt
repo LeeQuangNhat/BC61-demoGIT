@@ -1,0 +1,3 @@
+1. khoiwr tạo thư mục dự án thành LocalRepository: git init
+2. sử dụng lệnh để đưa các file để đưa các thư mục lên staging area
+3. Lệnh giups kiểm tra các file đc đẩy lên staging area: git status
